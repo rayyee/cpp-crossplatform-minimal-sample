@@ -71,4 +71,4 @@ This sample demonstrates building an app with Google Play Games on iOS and Andro
 1. When running the app, you should see four buttons (Sign In, Sign Out, Show Achievements, and Show Leaderboards) as well as a colored square.  The four buttons trigger methods in the Play Games SDK and the square is a demonstration of using OpenGL graphics in a cross-platform application.  See the screenshot below:
 
 
-    ![Android and iOS](Android_and_iOS.png =600x)
+    ![Android and iOS](Android_and_iOS.png)
